@@ -1,4 +1,4 @@
-<h2 align="centre">ғʟᴀᴍᴇ ᴍᴜsɪᴄ</h2>
+<h2 align="centre">STD ᴍᴜsɪᴄ</h2>
 
 <p align="center">
   <img src="https://te.legra.ph/file/b098eec5ecc61fdbed99e.jpg">
