@@ -50,5 +50,5 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 <p align="center"><a href="https://railway.app/new/template?template=https://github.com/S780821/Railway_deploy&envs=API_HASH,API_ID,ASS_ID,BOT_TOKEN,CHANNEL,DURATION_LIMIT,GROUP,LOG_GROUP_ID,MONGO_DB_URI,OWNER_ID,SESSION_NAME,SUDO_USERS,UPSTREAM_BRANCH,UPSTREAM_REPO"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 ### Support & Updates 
-<a href="https://t.me/Flame_Project"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Flame_Updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/best_friends_chat_group"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Flame_Updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
 
